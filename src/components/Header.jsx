@@ -23,7 +23,7 @@ export default function Header({isPrincippal}) {
                 <div>
                     {/* Project logo with custom styling */}
                     <h1 className="text-3xl logo text-white">
-                        TMeet
+                        TMeettt
                     </h1>
                     {/* Personalized welcome message using the user's fullname */}
                     <p className="text-gray-500 italic pl-[3px]">
